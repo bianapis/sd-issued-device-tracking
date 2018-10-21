@@ -1,0 +1,19 @@
+{
+  "sequenceNumber" : "SQNM3309",
+  "issuedDeviceReference" : "IDRE4940",
+  "issuedDeviceConfiguration" : "BillingOptions/TransactionProcessingOptions",
+  "issuedDeviceTemplate" : "General/Secured",
+  "issuedDeviceStatus" : "Active/Inactive",
+  "customerCustomizationReference" : "CCZR0942",
+  "issuedDeviceType" : "Physical/Virtual",
+  "versionNumber" : "Ver 1.2",
+  "accessLog" : "LoginLogReport",
+  "issueLocation" : "Austin/Chicago/Dallas/Seattle",
+  "issuedDeviceSerialNumber" : "IDSN2730",
+  "productInstanceReference" : "PRIR5859",
+  "associatedPermissions" : "City/State/National/International",
+  "passwordValue" : "SecondaryPassword/SecurityQuestion",
+  "usageLog" : "SessionLogReport",
+  "customerReference" : "CSRE3456",
+  "validFromToDate" : "2018-07-01 To 2018-07-31"
+}

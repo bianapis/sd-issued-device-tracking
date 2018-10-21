@@ -1,0 +1,8 @@
+{
+  "productInstanceReference" : "PRIR5859",
+  "issuedDeviceReference" : "IDRE4940",
+  "customerReference" : "CSRE3456",
+  "issuedDeviceStatus" : "Active/Inactive",
+  "issuedDeviceType" : "Physical/Virtual",
+  "validFromToDate" : "2018-07-01 To 2018-07-31"
+}

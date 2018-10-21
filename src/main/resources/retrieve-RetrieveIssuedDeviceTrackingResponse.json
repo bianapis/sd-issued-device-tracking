@@ -1,0 +1,35 @@
+{
+  "cancellation" : {
+    "productInstanceReference" : "PRIR5859",
+    "issuedDeviceReference" : "IDRE4940",
+    "customerReference" : "CSRE3456",
+    "issuedDeviceStatus" : "Active/Inactive",
+    "issuedDeviceType" : "Physical/Virtual",
+    "validFromToDate" : "2018-07-01 To 2018-07-31"
+  },
+  "trackingService" : {
+    "trackingServiceReport" : {},
+    "trackingServiceSessionReference" : "TSSR9472",
+    "trackingServiceSchedule" : "2018-08-28T09:00:00",
+    "trackingServiceReportReference" : "TSRR4718"
+  },
+  "update" : {
+    "sequenceNumber" : "SQNM3309",
+    "issuedDeviceReference" : "IDRE4940",
+    "issuedDeviceConfiguration" : "BillingOptions/TransactionProcessingOptions",
+    "issuedDeviceTemplate" : "General/Secured",
+    "issuedDeviceStatus" : "Active/Inactive",
+    "customerCustomizationReference" : "CCZR0942",
+    "issuedDeviceType" : "Physical/Virtual",
+    "versionNumber" : "Ver 1.2",
+    "accessLog" : "LoginLogReport",
+    "issueLocation" : "Austin/Chicago/Dallas/Seattle",
+    "issuedDeviceSerialNumber" : "IDSN2730",
+    "productInstanceReference" : "PRIR5859",
+    "associatedPermissions" : "City/State/National/International",
+    "passwordValue" : "SecondaryPassword/SecurityQuestion",
+    "usageLog" : "SessionLogReport",
+    "customerReference" : "CSRE3456",
+    "validFromToDate" : "2018-07-01 To 2018-07-31"
+  }
+}
